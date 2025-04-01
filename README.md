@@ -15,6 +15,7 @@ ACCESS:
 - Website: https://s1933.ovh
 - Traefik Dashboard: http://localhost:8080
 
+```
 PROJECT FILES:
 .
 ├── docker-compose.yml
@@ -23,6 +24,7 @@ PROJECT FILES:
 ├── letsencrypt/
 │   └── acme.json
 └── README.txt
+```
 
 IMPORTANT:
 * letsencrypt/acme.json must have 600 permissions
