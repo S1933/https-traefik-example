@@ -4,9 +4,12 @@ Hello World with Traefik and HTTPS
 SETUP INSTRUCTIONS:
 
 1. Create letsencrypt directory and file:
+```
    mkdir -p letsencrypt
    touch letsencrypt/acme.json
    chmod 600 letsencrypt/acme.json
+```
+
 
 2. Start the application:
    docker-compose up -d
