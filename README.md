@@ -12,11 +12,11 @@ SETUP INSTRUCTIONS:
 
 
 2. Start the application:
-   docker-compose up -d
+   `docker-compose up -d`
 
 ACCESS:
-- Website: https://s1933.ovh
-- Traefik Dashboard: http://localhost:8080
+- Website: `https://s1933.ovh`
+- Traefik Dashboard: `http://localhost:8080`
 
 ```
 PROJECT FILES:
